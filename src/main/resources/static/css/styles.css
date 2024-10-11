@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #a8d9b2;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    height: 50vh;
+  }
+
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+
+  label{
+    margin-bottom: 5px;
+  }
+
+  button{
+    margin-top: 5px;
+  }
+
+  .button1:hover{
+    background-color: aqua;
+  }
+
+  .button1{
+
+    padding: 10px;
+    margin-bottom: 15px;
+    border:  #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box;
+    box-shadow: -8px 8px rgba(0, 0, 0, 0.1);
+
+  }
+
+  .fishForm{
+    text-align: left;
+    padding-left: 130px;
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+  }
+
+.form-input {
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 3px solid #ddd;
+  border-radius: 4px;
+  font-size: 16px;
+  width: 100%;
+  box-sizing: border-box;
+  box-shadow:  -8px 8px rgba(0, 0, 0, 0.1);
+}
