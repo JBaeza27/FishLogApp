@@ -85,7 +85,7 @@ http://localhost:8080
 ```
 **(Optional) Step 6:**
 <br>
-Install [Postman](https://www.postman.com/downloads/) for testing and use @RequestMapping("/api/fish") with @GetMapping("/getAll") to see all fish caught. Enjoy the API!
+Install [Postman](https://www.postman.com/downloads/) for testing and use @RequestMapping("/api/fish") with @GetMapping("/getAll") to see all fish caught. Enjoy the Rest API!
 <br>
 <br>
 <a><img src="https://github.com/user-attachments/assets/d1eb68c3-f137-4598-9208-d9b53801e7e9"></a>
